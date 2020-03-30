@@ -13,5 +13,6 @@ Prerequirements:
 
 For compiling, you first have to download the current JCloisterZone.7z file and unzip it.
 Then you have to change each "C:\Users\Nutzer\Downloads" in the config files and replace it with the real location of the unzipped data.
+Also, you have to download the license file of JCloisterZone from the official JCloisterZone repo and the icon, converted to .ico format, that can be found in this repo, and update the corresponding paths in the config files.
 After that, you should install Launch4j and open the JCloisterZone_launch4j.cfg.xml file with it. A click on the gear ("Build wrapper") starts building an .exe-file for launching JCloisterZone.
 If this is done, you can open JCloisterZoneInno.iss with the Inno Setup Compiler and build the setup file.
