@@ -15,3 +15,27 @@ For compiling, you first have to download the current JCloisterZone.7z file and 
 After that, you should open the JCloisterZone_launch4j.cfg.xml file with Launch4J. A click on the gear ("Build wrapper") starts building an .exe-file for launching JCloisterZone.
 If this is done, you can open JCloisterZoneInno.iss with the Inno Setup Compiler and build the setup file. 
 It will appear in the ./Output/ folder.
+
+## License of this installation software and the regarding configuration files:
+
+(Info: The copyright of Jordan Russell and Martijn Laan belongs to Inno Setup, used for creating the setup file. The copyright of Grzegorz Kowal belongs to Launch4J, used for creating an .exe executable for the main .jar file. The copyright of Roman Krejcik belongs to the bundeled JClositerZone, which is installed by this installation program.)
+
+    Installer4JCloisterZone
+    Copyright (C) 2020 java-py-c-cpp-js
+    Portions Copyright (C) 2004-2014 Roman Krejcik
+    Portions Copyright (C) 1997-2020 Jordan Russell. All rights reserved.
+    Portions Copyright (C) 2000-2020 Martijn Laan. All rights reserved.
+    Portions Copyright (C) 2005-2017 Grzegorz Kowal 
+    
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License as
+    published by the Free Software Foundation, either version 3 of the
+    License, or (at your option) any later version.
+    
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU Affero General Public License for more details.
+    
+    You should have received a copy of the GNU Affero General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
