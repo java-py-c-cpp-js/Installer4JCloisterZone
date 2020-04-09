@@ -20,13 +20,15 @@ After that, you should open the JCloisterZone_launch4j.cfg.xml file with Launch4
 If this is done, you can open JCloisterZoneInno.iss with the Inno Setup Compiler and build the setup file. 
 It will appear in the ./Output/ folder.
 
-## License of the software bundeled in the provided installation file and the regarding configuration files in this repo:
+## License of this installation software for JCloisterZone, the provided binary and the regarding configuration files in this repo:
 
-(Info: The copyright of Grzegorz Kowal belongs to Launch4J, used for creating an .exe executable for the main .jar file. The copyright of Roman Krejcik belongs to the bundeled JClositerZone, which is installed by this installation program.)
+(Info: The copyright of Jordan Russell and Martijn Laan belongs to Inno Setup, used for creating the setup file. The copyright of Grzegorz Kowal belongs to Launch4J, used for creating an .exe executable for the main .jar file. The copyright of Roman Krejcik belongs to the bundeled JClositerZone, which is installed by this installation program.)
 
     Installer4JCloisterZone
     Copyright (C) 2020 java-py-c-cpp-js
     Portions Copyright (C) 2004-2014 Roman Krejcik
+    Portions Copyright (C) 1997-2020 Jordan Russell. All rights reserved.
+    Portions Copyright (C) 2000-2020 Martijn Laan. All rights reserved.
     Portions Copyright (C) 2005-2017 Grzegorz Kowal 
     
     This program is free software: you can redistribute it and/or modify
